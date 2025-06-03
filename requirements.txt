@@ -1,1 +1,5 @@
 numpy
+opencv-python
+pyrealsense2
+roboflow
+xarm-python-sdk

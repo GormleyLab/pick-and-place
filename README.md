@@ -2,6 +2,10 @@
 
 A robotic pick and place system using XArm robot and Intel RealSense camera with computer vision object detection.
 
+![Pick and Place Setup](pickandplace.jpg)
+
+*XArm robotic arm with Intel RealSense camera and colored blocks for pick and place operations*
+
 ## Features
 
 - Real-time object detection using Roboflow API

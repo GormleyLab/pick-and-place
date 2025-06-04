@@ -47,7 +47,7 @@ python main.py
 
 ## Configuration
 
-Update the following settings in `src/package_name/pick_and_place.py`:
+Update the following settings in `src/pick_and_place/pick_and_place.py`:
 - Robot IP address
 - Roboflow API key
 - Home, place, and safe positions
@@ -62,7 +62,7 @@ pick-and-place/
 ├── README.md                      # Documentation
 ├── LICENSE                        # License
 └── src/
-    └── package_name/
+    └── pick_and_place/
         ├── __init__.py            # Package initialization
         ├── __about__.py           # Package metadata
         ├── camera.py              # RealSense camera interface

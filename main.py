@@ -5,7 +5,7 @@ import cv2
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
-from package_name import PickAndPlace
+from pick_and_place import PickAndPlace
 
 def main():
     pick_and_place = PickAndPlace()
